@@ -1,0 +1,7 @@
+Configuring Wrong Language
+
+https://github.com/github/linguist/issues/3684
+
+https://github.com/github/linguist/issues/3686
+
+https://stackoverflow.com/questions/34713765/github-changes-repository-to-wrong-language
