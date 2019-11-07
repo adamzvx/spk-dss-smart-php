@@ -5,3 +5,5 @@ https://github.com/github/linguist/issues/3684
 https://github.com/github/linguist/issues/3686
 
 https://stackoverflow.com/questions/34713765/github-changes-repository-to-wrong-language
+
+https://github.com/jdougal84/Flask_AJAX_Table
