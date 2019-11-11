@@ -9,7 +9,7 @@ Menggunakan PHP dan MySQL. Data contoh yang tersedia kemungkinan berbeda dengan 
 
 **Startmin** is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) originally created by [Start Bootstrap](http://startbootstrap.com/).
 
-You can find a demo [here](http://secondtruth.github.io/startmin).
+
 
 
 
